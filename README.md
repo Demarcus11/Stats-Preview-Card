@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live]()
+- Solution URL: [Solution](https://github.com/Demarcus11/Stats-Preview-Card.git)
+- Live Site URL: [Live](https://demarcus11.github.io/Stats-Preview-Card/)
 
 ## My process
 
